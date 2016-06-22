@@ -8,7 +8,11 @@
 
 #import "AppDelegate.h"
 
-@interface AppDelegate ()
+@interface AppDelegate (){
+
+    int age;
+    
+}
 
 @end
 
