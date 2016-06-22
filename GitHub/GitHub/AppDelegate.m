@@ -11,7 +11,7 @@
 @interface AppDelegate (){
 
     int age;
-    
+    NSString *str;
 }
 
 @end
